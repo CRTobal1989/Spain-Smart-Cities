@@ -1,0 +1,29 @@
+# Python
+__pycache__/          # Carpeta temporal que Python crea al ejecutar
+*.py[cod]             # Archivos compilados de Python (.pyc, .pyo, .pyd)
+*.egg-info/           # Metadatos de paquetes Python
+dist/                 # Carpeta de distribución
+build/                # Carpeta de compilación
+
+# Virtual environment
+.venv/                # Tu entorno virtual (pesa mucho, cada uno crea el suyo)
+venv/                 # Otro nombre común de entorno virtual
+env/                  # Otro nombre común
+
+# Variables de entorno (SECRETOS)
+.env                  # ⚠️ AQUÍ VAN TUS CONTRASEÑAS Y API KEYS
+                      # NUNCA debe subirse a GitHub
+
+# IDE
+.idea/                # Configuración personal de PyCharm
+
+# Data files
+data/*                # Ignorar todo lo de data/
+!data/sample/         # EXCEPTO data/sample/ (datos de ejemplo ligeros)
+
+# Outputs
+outputs/*             # Resultados generados (gráficos, CSVs)
+
+# OS
+.DS_Store             # Archivo oculto de Mac
+Thumbs.db             # Archivo oculto de Windows
