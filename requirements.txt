@@ -1,0 +1,26 @@
+# ============================================================
+# DEPENDENCIAS DEL PROYECTO SPAIN-SMART-CITIES
+# ============================================================
+# Instalar todo: pip install -r requirements.txt
+# ============================================================
+
+# --- Ya las usas (ingesta + análisis) ---
+requests            # Peticiones HTTP a la API de AEMET
+python-dotenv       # Leer el archivo .env
+pandas              # Manejo de datos en tablas (DataFrames)
+psycopg2-binary     # Conector Python ↔ PostgreSQL
+matplotlib          # Gráficos estáticos
+seaborn             # Gráficos estadísticos (extiende matplotlib)
+
+# --- Nuevas para la API ---
+# FastAPI: framework para crear APIs REST. Genera documentación automática.
+fastapi
+
+# Uvicorn: servidor que ejecuta la API (el "motor" de FastAPI).
+uvicorn
+
+# SQLAlchemy: ORM que permite consultar PostgreSQL con clases Python.
+sqlalchemy
+
+# Pydantic-settings: carga configuración desde .env de forma validada.
+pydantic-settings
