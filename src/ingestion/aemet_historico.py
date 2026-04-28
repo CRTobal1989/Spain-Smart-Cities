@@ -2,7 +2,7 @@
 Descarga masiva de datos históricos de AEMET.
 
 Este script descarga datos climáticos mes a mes
-desde 2015 hasta la actualidad, para TODAS las ciudades definidas en el archivo aemet_client_26_04_22.
+desde 2015 hasta la actualidad, para TODAS las ciudades definidas en aemet_client.
 
 AEMET tiene un límite de ~31 días por petición,
 así que hacemos una petición por cada mes.
@@ -18,7 +18,7 @@ import time
 from datetime import datetime, timedelta
 
 # Importamos nuestro cliente de AEMET (el que ya creamos)
-from aemet_client_26_04_22 import AemetClient
+from src.ingestion.aemet_client import AemetClient
 
 
 def descargar_historico(

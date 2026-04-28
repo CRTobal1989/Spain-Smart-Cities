@@ -16,7 +16,7 @@ Incluye las 7 ciudades principales + 2 estaciones auxiliares
 (Guadañuno y Prágdena) para tener datos completos.
 
 Se ejecuta desde la RAÍZ del proyecto:
-    python -m src.ingestion.actualizar_datos_27_04_26
+    python -m src.ingestion.aemet_actualizar
 """
 
 import json
@@ -29,7 +29,7 @@ import psycopg2
 from dotenv import load_dotenv
 
 # Importamos nuestro cliente AEMET
-from src.ingestion.aemet_client_26_04_22 import AemetClient
+from src.ingestion.aemet_client import AemetClient
 
 
 # ============================================================

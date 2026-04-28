@@ -18,7 +18,7 @@ ESTRATEGIA: media histórica del mismo día del año.
     suele tener horas de sol parecidas de un año a otro.
 
 Se ejecuta desde la RAÍZ del proyecto:
-    python -m src.processing.imputar_horas_sol_27_04_26
+    python -m src.processing.clima_imputar_horas_sol
 """
 
 import os

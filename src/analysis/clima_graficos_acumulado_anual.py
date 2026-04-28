@@ -8,7 +8,7 @@ Gráficos de barras: Acumulado anual de precipitación y horas de sol en Córdob
 Incluye análisis de datos ausentes y proyección para 2026.
 
 Se ejecuta desde la RAÍZ del proyecto:
-    python -m src.analysis.graficos_acumulado_anual_27_04_26
+    python -m src.analysis.clima_graficos_acumulado_anual
 """
 
 # --- IMPORTACIONES ---

@@ -8,7 +8,7 @@ import os
 import time
 from datetime import datetime, timedelta
 
-from aemet_client_26_04_22 import AemetClient
+from src.ingestion.aemet_client import AemetClient
 
 
 def encontrar_meses_faltantes(ciudad: str, carpeta: str) -> list:
