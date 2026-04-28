@@ -60,6 +60,9 @@ class AemetClient:
         "barcelona": "0076",     # Barcelona Fabra
         "valencia": "8416",      # Valencia Aeropuerto
         "granada": "5530E",      # Granada Aeropuerto
+        # Estaciones auxiliares (para imputación de datos de Córdoba)
+        "guadaluno": "5394X",    # Embalse de Guadañuno (Córdoba)
+        "pragdena": "5429X",     # Prágdena (Córdoba)
     }
 
     # --- METODO __init__ ---

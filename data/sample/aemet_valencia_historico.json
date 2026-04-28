@@ -49514,5 +49514,65 @@
     "tmin": "13,8",
     "tmax": "23,8",
     "sol": "12,2"
+  },
+  {
+    "fecha": "2026-04-20",
+    "indicativo": "8416",
+    "nombre": "VALÈNCIA",
+    "provincia": "VALENCIA",
+    "altitud": "11",
+    "tmed": "19,6",
+    "prec": "0,0",
+    "tmin": "14,4",
+    "tmax": "24,9",
+    "sol": "11,5"
+  },
+  {
+    "fecha": "2026-04-21",
+    "indicativo": "8416",
+    "nombre": "VALÈNCIA",
+    "provincia": "VALENCIA",
+    "altitud": "11",
+    "tmed": "18,9",
+    "prec": "0,0",
+    "tmin": "14,3",
+    "tmax": "23,5",
+    "sol": "11,6"
+  },
+  {
+    "fecha": "2026-04-22",
+    "indicativo": "8416",
+    "nombre": "VALÈNCIA",
+    "provincia": "VALENCIA",
+    "altitud": "11",
+    "tmed": "20,1",
+    "prec": "0,0",
+    "tmin": "14,7",
+    "tmax": "25,5",
+    "sol": "10,3"
+  },
+  {
+    "fecha": "2026-04-23",
+    "indicativo": "8416",
+    "nombre": "VALÈNCIA",
+    "provincia": "VALENCIA",
+    "altitud": "11",
+    "tmed": "18,8",
+    "prec": "0,0",
+    "tmin": "16,6",
+    "tmax": "21,1",
+    "sol": "3,8"
+  },
+  {
+    "fecha": "2026-04-24",
+    "indicativo": "8416",
+    "nombre": "VALÈNCIA",
+    "provincia": "VALENCIA",
+    "altitud": "11",
+    "tmed": "18,5",
+    "prec": "0,0",
+    "tmin": "15,8",
+    "tmax": "21,2",
+    "sol": "3,2"
   }
 ]
