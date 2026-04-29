@@ -90117,5 +90117,27 @@
     "horaHrMax": "Varias",
     "hrMin": "60",
     "horaHrMin": "10:50"
+  },
+  {
+    "fecha": "2026-04-25",
+    "indicativo": "5394X",
+    "nombre": "CÓRDOBA, EMBALSE DE GUADANUÑO",
+    "provincia": "CORDOBA",
+    "altitud": "525",
+    "tmed": "17,4",
+    "prec": "0,0",
+    "tmin": "12,8",
+    "horatmin": "00:46",
+    "tmax": "22,0",
+    "horatmax": "15:12",
+    "dir": "28",
+    "velmedia": "1,1",
+    "racha": "5,0",
+    "horaracha": "02:20",
+    "hrMedia": "82",
+    "hrMax": "98",
+    "horaHrMax": "04:00",
+    "hrMin": "55",
+    "horaHrMin": "15:10"
   }
 ]

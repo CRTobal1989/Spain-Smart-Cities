@@ -111121,5 +111121,32 @@
     "horaHrMax": "23:40",
     "hrMin": "68",
     "horaHrMin": "15:20"
+  },
+  {
+    "fecha": "2026-04-25",
+    "indicativo": "6155A",
+    "nombre": "MÁLAGA AEROPUERTO",
+    "provincia": "MALAGA",
+    "altitud": "7",
+    "tmed": "18,0",
+    "prec": "Ip",
+    "tmin": "15,7",
+    "horatmin": "02:10",
+    "tmax": "20,4",
+    "horatmax": "12:50",
+    "dir": "14",
+    "velmedia": "2,8",
+    "racha": "7,8",
+    "horaracha": "13:20",
+    "sol": "1,9",
+    "presMax": "1017,6",
+    "horaPresMax": "Varias",
+    "presMin": "1015,2",
+    "horaPresMin": "17",
+    "hrMedia": "79",
+    "hrMax": "100",
+    "horaHrMax": "Varias",
+    "hrMin": "59",
+    "horaHrMin": "17:00"
   }
 ]

@@ -110889,5 +110889,32 @@
     "horaHrMax": "Varias",
     "hrMin": "51",
     "horaHrMin": "10:40"
+  },
+  {
+    "fecha": "2026-04-25",
+    "indicativo": "5402",
+    "nombre": "CÓRDOBA AEROPUERTO",
+    "provincia": "CORDOBA",
+    "altitud": "90",
+    "tmed": "19,2",
+    "prec": "0,0",
+    "tmin": "14,1",
+    "horatmin": "03:30",
+    "tmax": "24,2",
+    "horatmax": "15:37",
+    "dir": "99",
+    "velmedia": "2,2",
+    "racha": "7,8",
+    "horaracha": "Varias",
+    "sol": "8,4",
+    "presMax": "1007,2",
+    "horaPresMax": "00",
+    "presMin": "1003,2",
+    "horaPresMin": "16",
+    "hrMedia": "76",
+    "hrMax": "97",
+    "horaHrMax": "Varias",
+    "hrMin": "46",
+    "horaHrMin": "16:22"
   }
 ]

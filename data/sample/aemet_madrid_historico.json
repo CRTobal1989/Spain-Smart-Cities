@@ -111454,5 +111454,32 @@
     "horaHrMax": "05:58",
     "hrMin": "47",
     "horaHrMin": "17:28"
+  },
+  {
+    "fecha": "2026-04-25",
+    "indicativo": "3129",
+    "nombre": "MADRID AEROPUERTO",
+    "provincia": "MADRID",
+    "altitud": "609",
+    "tmed": "19,6",
+    "prec": "0,0",
+    "tmin": "13,8",
+    "horatmin": "05:05",
+    "tmax": "25,5",
+    "horatmax": "15:42",
+    "dir": "19",
+    "velmedia": "3,1",
+    "racha": "9,2",
+    "horaracha": "15:14",
+    "sol": "7,3",
+    "presMax": "951,9",
+    "horaPresMax": "Varias",
+    "presMin": "947,3",
+    "horaPresMin": "15",
+    "hrMedia": "63",
+    "hrMax": "90",
+    "horaHrMax": "05:34",
+    "hrMin": "33",
+    "horaHrMin": "15:48"
   }
 ]

@@ -111414,5 +111414,32 @@
     "horaHrMax": "Varias",
     "hrMin": "46",
     "horaHrMin": "04:25"
+  },
+  {
+    "fecha": "2026-04-25",
+    "indicativo": "5530E",
+    "nombre": "GRANADA AEROPUERTO",
+    "provincia": "GRANADA",
+    "altitud": "560",
+    "tmed": "17,0",
+    "prec": "0,0",
+    "tmin": "13,2",
+    "horatmin": "Varias",
+    "tmax": "20,9",
+    "horatmax": "15:44",
+    "dir": "99",
+    "velmedia": "3,1",
+    "racha": "6,1",
+    "horaracha": "Varias",
+    "sol": "1,8",
+    "presMax": "951,8",
+    "horaPresMax": "00",
+    "presMin": "949,0",
+    "horaPresMin": "16",
+    "hrMedia": "78",
+    "hrMax": "95",
+    "horaHrMax": "Varias",
+    "hrMin": "56",
+    "horaHrMin": "16:27"
   }
 ]

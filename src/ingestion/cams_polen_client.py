@@ -69,7 +69,7 @@ TEMPORADAS = [
     ("2023-04-23", "2023-06-30"),  # Primavera 2023 (CAMS empieza el 23/04)
     ("2024-03-01", "2024-06-30"),  # Primavera 2024 (completa)
     ("2025-03-01", "2025-06-30"),  # Primavera 2025 (completa)
-    ("2026-03-01", "2026-04-27"),  # Primavera 2026 (actualizar fecha_fin)
+    ("2026-03-01", "2026-04-29"),  # Primavera 2026 (actualizar fecha_fin)
 ]
 
 

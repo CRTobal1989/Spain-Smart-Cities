@@ -110830,5 +110830,32 @@
     "horaHrMax": "Varias",
     "hrMin": "40",
     "horaHrMin": "16:43"
+  },
+  {
+    "fecha": "2026-04-25",
+    "indicativo": "0076",
+    "nombre": "BARCELONA AEROPUERTO",
+    "provincia": "BARCELONA",
+    "altitud": "4",
+    "tmed": "15,7",
+    "prec": "0,0",
+    "tmin": "11,5",
+    "horatmin": "04:11",
+    "tmax": "19,9",
+    "horatmax": "12:05",
+    "dir": "99",
+    "velmedia": "3,3",
+    "racha": "6,7",
+    "horaracha": "Varias",
+    "sol": "11,0",
+    "presMax": "1018,5",
+    "horaPresMax": "Varias",
+    "presMin": "1016,6",
+    "horaPresMin": "15",
+    "hrMedia": "63",
+    "hrMax": "83",
+    "horaHrMax": "Varias",
+    "hrMin": "38",
+    "horaHrMin": "11:21"
   }
 ]

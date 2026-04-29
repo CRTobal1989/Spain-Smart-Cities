@@ -110647,5 +110647,32 @@
     "horaHrMax": "Varias",
     "hrMin": "47",
     "horaHrMin": "15:58"
+  },
+  {
+    "fecha": "2026-04-25",
+    "indicativo": "5783",
+    "nombre": "SEVILLA AEROPUERTO",
+    "provincia": "SEVILLA",
+    "altitud": "34",
+    "tmed": "21,1",
+    "prec": "0,1",
+    "tmin": "15,9",
+    "horatmin": "23:59",
+    "tmax": "26,3",
+    "horatmax": "15:36",
+    "dir": "11",
+    "velmedia": "1,7",
+    "racha": "6,1",
+    "horaracha": "13:23",
+    "sol": "3,5",
+    "presMax": "1014,5",
+    "horaPresMax": "00",
+    "presMin": "1010,3",
+    "horaPresMin": "16",
+    "hrMedia": "75",
+    "hrMax": "96",
+    "horaHrMax": "04:04",
+    "hrMin": "50",
+    "horaHrMin": "15:23"
   }
 ]

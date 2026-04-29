@@ -90138,5 +90138,27 @@
     "horaHrMax": "23:30",
     "hrMin": "63",
     "horaHrMin": "13:20"
+  },
+  {
+    "fecha": "2026-04-25",
+    "indicativo": "5429X",
+    "nombre": "CÓRDOBA, PRÁGDENA",
+    "provincia": "CORDOBA",
+    "altitud": "275",
+    "tmed": "18,6",
+    "prec": "0,0",
+    "tmin": "13,8",
+    "horatmin": "00:51",
+    "tmax": "23,5",
+    "horatmax": "15:49",
+    "dir": "22",
+    "velmedia": "2,2",
+    "racha": "6,9",
+    "horaracha": "17:10",
+    "hrMedia": "84",
+    "hrMax": "100",
+    "horaHrMax": "Varias",
+    "hrMin": "57",
+    "horaHrMin": "15:50"
   }
 ]
