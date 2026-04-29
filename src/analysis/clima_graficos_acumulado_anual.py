@@ -197,7 +197,7 @@ def obtener_carpeta_salida():
             os.path.dirname(os.path.abspath(__file__))
         )
     )
-    carpeta = os.path.join(raiz, "outputs", "cordoba")
+    carpeta = os.path.join(raiz, "outputs", "cordoba", "01_Datos meteorológios")
     os.makedirs(carpeta, exist_ok=True)
     return carpeta
 
